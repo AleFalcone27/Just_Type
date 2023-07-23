@@ -1,0 +1,11 @@
+{
+  "name": "typeracer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alef",
+  "license": "ISC"
+}

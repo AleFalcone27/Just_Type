@@ -1,0 +1,65 @@
+body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color:#0F0F0F ;
+}
+
+
+body, quote-input {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.container {
+    background-color: aliceblue;
+    font-weight: bold;
+    width: 700px;
+    max-width: 90%;
+    display: block;
+}
+
+.timer {
+    position: absolute;
+    top: 30px;
+    right: 49%;
+    color: aliceblue;
+    font-size: 3rem;
+}
+
+.quote-display {
+    right: 0%;
+    margin-bottom: 2rem;
+    margin-left: 10%;
+}
+
+.quote-input{
+    margin-left: 30%;
+    resize: none;
+    opacity: 100%;;
+    width: 20px;
+    height: 10%;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+    text-decoration: underline;
+}
+
+
+/* .footer {
+
+    grid-row: 3 / span 4 ;
+    width: 100vw;
+    background-color:#0F0F0F;
+} */
+
+/* ESTE NEGRO ESTA GOD */
+/* #0F0F0F */
