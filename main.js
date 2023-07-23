@@ -49,8 +49,5 @@ async function renderNewQuote(){
     });
 }
 
-
 renderNewQuote()
 
-// Tengo que hacer un contador de 3 quotes que agregue en alguna parte de la ui un promedio de wpm y un contador de errores cada vez que a una letra se le pone la clase incorrect
-// - Tambien falta el cronometro ver si queda fachero o no 
