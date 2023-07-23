@@ -1,7 +1,7 @@
 ## Just Type
 
-#### Clonate este repo, abri el index.hml, ponete musica que te cope y disrfuta 🎧
-#### Presiona F11 para mas placer ‼️ 
+#### - Clonate este repo, abri el index.hml, ponete musica que te cope y disrfuta 🎧
+#### - Presiona F11 para mas placer ‼️ 
 
 ---
 ### PREVIEW 🔍
