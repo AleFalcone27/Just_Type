@@ -1,7 +1,7 @@
 # Just Type ⌨️
 
-Es un acercamiento diferente a los conocidos **typeRacer**, pero en este caso no es para estresarte porque tus WPM _tienden a 0_, sino que todo lo contrario. 🧠
-Ponete música que te guste y disrfuta 🎧
+Es un acercamiento diferente a los conocidos **typeRacer**, pero en este caso no es para estresarte porque tus WPM _tienden a 0_, sino que todo lo contrario 🧠
+#### Ponete música que te guste y disrfuta 🎧
 
 ### PREVIEW 🔍
 ![img](Preview.png)
