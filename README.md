@@ -1,7 +1,7 @@
 # Just Type ⌨️
 
 ## Es un acercamiento diferente a los conocidos typeRacer, pero en este caso no es para estresarte porque tus WPM tienden a 0, sino que todo lo contrario. Ponete música que te cope y disrfuta 🎧
----
+
 ### PREVIEW 🔍
 ![img](Preview.png)
 ---
