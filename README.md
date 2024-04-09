@@ -1,4 +1,4 @@
-## Just Type
+### Just Type ⌨️
 
 ## Es un acercamiento diferente a los conocidos typeRacer, pero en este caso no es para estresarte porque tus WPM tienden a 0, sino que todo lo contrario. Clonate este repo, abri el index.hml, ponete musica que te cope y disrfuta 🎧
 
